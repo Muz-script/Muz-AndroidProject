@@ -1,6 +1,10 @@
 # Apps Register Form
 Android project untuk tugas Week 5.
 
+# Link for documentation screenshoot & videos
+
+Android project untuk tugas Week 5.
+
 ## Features
 ✔ Complete Form  
 ✔ TextInputLayout  
@@ -17,10 +21,10 @@ Android Studio
 Java  
 Material Design
 
+##📚 Muz-AndroidProject
+Material Design My Android Studio Project
 
 
-# 📚 Muz-AndroidProject
--My Android Studio Project at The College
 ---
 ## 👤 Author Information
 - **Name**  : Muzakki Fadlillah Gunadi  
