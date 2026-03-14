@@ -2,7 +2,7 @@
 Android project untuk tugas Week 5.
 
 # Link for documentation 
-screenshot & videos: 
+Screenshot & Videos: 
 
 
 ## Features
