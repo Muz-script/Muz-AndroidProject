@@ -16,11 +16,6 @@ Android project untuk tugas Week 5.
 ✔ AlertDialog Confirmation  
 ✔ Long Press Gesture  
 
-## Technology
-Android Studio  
-Java  
-Material Design
-
 ---
 ## 👤 Author Information
 - **Name**  : Muzakki Fadlillah Gunadi  
