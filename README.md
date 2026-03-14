@@ -23,5 +23,5 @@ Screenshot & Videos:
 - **NIM**   : 24552011062  
 ---
 
-# Bandung Technology University
+# Universitas Teknologi Bandung
 ✨ *Happy Coding & Keep Learning!*
