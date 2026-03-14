@@ -1,4 +1,4 @@
-# Apps Register Form
+# 📚Apps Register Form
 Android project untuk tugas Week 5.
 
 # Link for documentation screenshot & videos
@@ -21,10 +21,6 @@ Android Studio
 Java  
 Material Design
 
-##📚 Muz-AndroidProject
-Material Design My Android Studio Project
-
-
 ---
 ## 👤 Author Information
 - **Name**  : Muzakki Fadlillah Gunadi  
@@ -32,5 +28,5 @@ Material Design My Android Studio Project
 - **NIM**   : 24552011062  
 ---
 
-#Bandung Technology University
+# Bandung Technology University
 ✨ *Happy Coding & Keep Learning!*
