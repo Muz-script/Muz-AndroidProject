@@ -1,7 +1,7 @@
 # Apps Register Form
 Android project untuk tugas Week 5.
 
-# Link for documentation screenshoot & videos
+# Link for documentation screenshot & videos
 
 Android project untuk tugas Week 5.
 
