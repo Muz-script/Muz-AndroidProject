@@ -1,9 +1,9 @@
 # 📚Apps Register Form
 Android project untuk tugas Week 5.
 
-# Link for documentation screenshot & videos
+# Link for documentation 
+screenshot & videos: 
 
-Android project untuk tugas Week 5.
 
 ## Features
 ✔ Complete Form  
