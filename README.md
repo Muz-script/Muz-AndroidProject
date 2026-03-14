@@ -17,17 +17,16 @@ Android Studio
 Java  
 Material Design
 
-## Author
-Muz
+
 
 # 📚 Muz-AndroidProject
 -My Android Studio Project at The College
 ---
-## 👤 Informasi Mahasiswa
-- **Nama**  : Muzakki Fadlillah Gunadi  
-- **Kelas** : TIF K24 A  
+## 👤 Author Information
+- **Name**  : Muzakki Fadlillah Gunadi  
+- **Class** : TIF K24 A  
 - **NIM**   : 24552011062  
 ---
-✨ *Happy Coding & Keep Learning!*
 
 #Bandung Technology University
+✨ *Happy Coding & Keep Learning!*
